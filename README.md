@@ -1,5 +1,7 @@
 ### Всем привет 👋
 
+![Jag_k's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=jag-k&show_icons=true&hide_border=true)
+
 ## Я Full-stack разработчик
 
 - 🔭 Работаю над [AppStorrent Workflow для Alfred](https://github.com/jag-k/alfred-appstorrent)
@@ -47,13 +49,6 @@
 4. 🎉 Merged PR [#3](https://github.com//jag-k/Ecology/pull/3) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
 5. 🎉 Merged PR [#4](https://github.com//jag-k/Ecology/pull/4) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
 <!--END_SECTION:activity-->
-
-</details>
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="Jag_k's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=jag-k&show_icons=true&hide_border=true" />
 
 </details>
 
