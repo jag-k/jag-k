@@ -41,6 +41,11 @@
   <summary>:zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#6](https://github.com//jag-k/Ecology/pull/6) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
+2. 🎉 Merged PR [#1](https://github.com//jag-k/Ecology/pull/1) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
+3. 🎉 Merged PR [#2](https://github.com//jag-k/Ecology/pull/2) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
+4. 🎉 Merged PR [#3](https://github.com//jag-k/Ecology/pull/3) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
+5. 🎉 Merged PR [#4](https://github.com//jag-k/Ecology/pull/4) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
 <!--END_SECTION:activity-->
 
 </details>
