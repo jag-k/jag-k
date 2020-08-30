@@ -22,6 +22,7 @@
 [<img align="left" alt="Jag_k | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" alt="Jag_k | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
 [<img align="left" alt="Jag_k | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[![Jag_k's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jag_k)
 
 <br />
 
