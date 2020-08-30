@@ -16,13 +16,13 @@
 
 ### Связаться со мной:
 
-[<img align="left" alt="jagk.ru" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Jag_k | Twitter" width="22px" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" alt="Jag_k | VK" width="22px" src="https://simpleicons.org/icons/vk.svg" />][vk]
-[<img align="left" alt="Jag_k | Instagram" width="22px" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Jag_k | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img align="left" alt="Jag_k | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[![Jag_k's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/jag_k)
+[<img align="left" width="22px" alt="jagk.ru" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" alt="Jag_k | VK" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" alt="Jag_k | Telegram" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img align="left" width="22px" alt="Jag_k | Facebook" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
 
 <br />
 
@@ -57,6 +57,7 @@
 [vk]: https://vk.com/jag_konon
 [telegram]: https://telegram.me/@jag_k
 [facebook]: https://facebook.com/jag.konon
+[devto]: https://dev.to/jag_k
 
 [patreon]: https://patreon.com/jag_k
 [paypal]: https://paypal.me/jag_k
