@@ -43,11 +43,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#1](https://github.com//jag-k/appstorrent-api/issues/1) in [jag-k/appstorrent-api](https://github.com//jag-k/appstorrent-api)
-2. 🗣 Commented on [#1](https://github.com//jag-k/appstorrent-api/issues/1) in [jag-k/appstorrent-api](https://github.com//jag-k/appstorrent-api)
-3. 🎉 Merged PR [#6](https://github.com//jag-k/Ecology/pull/6) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
-4. 🎉 Merged PR [#1](https://github.com//jag-k/Ecology/pull/1) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
-5. 🎉 Merged PR [#2](https://github.com//jag-k/Ecology/pull/2) in [jag-k/Ecology](https://github.com//jag-k/Ecology)
+1. ❗️ Closed issue [#1](https://github.com/jag-k/appstorrent-api/issues/1) in [jag-k/appstorrent-api](https://github.com/jag-k/appstorrent-api)
+2. 🗣 Commented on [#1](https://github.com/jag-k/appstorrent-api/issues/1) in [jag-k/appstorrent-api](https://github.com/jag-k/appstorrent-api)
+3. 🎉 Merged PR [#6](https://github.com/jag-k/Ecology/pull/6) in [jag-k/Ecology](https://github.com/jag-k/Ecology)
+4. 🎉 Merged PR [#1](https://github.com/jag-k/Ecology/pull/1) in [jag-k/Ecology](https://github.com/jag-k/Ecology)
+5. 🎉 Merged PR [#2](https://github.com/jag-k/Ecology/pull/2) in [jag-k/Ecology](https://github.com/jag-k/Ecology)
 <!--END_SECTION:activity-->
 
 
