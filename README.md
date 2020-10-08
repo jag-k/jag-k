@@ -43,11 +43,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/jag-k/alfred-appstorrent/issues/6) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-2. ❗️ Opened issue [#5](https://github.com/jag-k/alfred-appstorrent/issues/5) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-3. ❗️ Opened issue [#4](https://github.com/jag-k/alfred-appstorrent/issues/4) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-4. ❗️ Opened issue [#3](https://github.com/jag-k/alfred-appstorrent/issues/3) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-5. ❗️ Opened issue [#2](https://github.com/jag-k/alfred-appstorrent/issues/2) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+1. ❗️ Opened issue [#7](https://github.com/jag-k/alfred-appstorrent/issues/7) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+2. ❗️ Opened issue [#6](https://github.com/jag-k/alfred-appstorrent/issues/6) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+3. ❗️ Opened issue [#5](https://github.com/jag-k/alfred-appstorrent/issues/5) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+4. ❗️ Opened issue [#4](https://github.com/jag-k/alfred-appstorrent/issues/4) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+5. ❗️ Opened issue [#3](https://github.com/jag-k/alfred-appstorrent/issues/3) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
 <!--END_SECTION:activity-->
 
 
