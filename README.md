@@ -43,11 +43,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jag-k/alice_app/pull/1) in [jag-k/alice_app](https://github.com/jag-k/alice_app)
-2. ❌ Closed PR [#1](https://github.com/jag-k/mp/pull/1) in [jag-k/mp](https://github.com/jag-k/mp)
-3. ❗️ Opened issue [#7](https://github.com/jag-k/alfred-appstorrent/issues/7) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-4. ❗️ Opened issue [#6](https://github.com/jag-k/alfred-appstorrent/issues/6) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
-5. ❗️ Opened issue [#5](https://github.com/jag-k/alfred-appstorrent/issues/5) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+1. 💪 Opened PR [#1](https://github.com/DeusMaksler/DeusMaksler.github.io/pull/1) in [DeusMaksler/DeusMaksler.github.io](https://github.com/DeusMaksler/DeusMaksler.github.io)
+2. 🎉 Merged PR [#1](https://github.com/jag-k/alice_app/pull/1) in [jag-k/alice_app](https://github.com/jag-k/alice_app)
+3. ❌ Closed PR [#1](https://github.com/jag-k/mp/pull/1) in [jag-k/mp](https://github.com/jag-k/mp)
+4. ❗️ Opened issue [#7](https://github.com/jag-k/alfred-appstorrent/issues/7) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
+5. ❗️ Opened issue [#6](https://github.com/jag-k/alfred-appstorrent/issues/6) in [jag-k/alfred-appstorrent](https://github.com/jag-k/alfred-appstorrent)
 <!--END_SECTION:activity-->
 
 
