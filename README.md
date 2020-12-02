@@ -43,11 +43,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/nagayev/nagayev/pull/1) in [nagayev/nagayev](https://github.com/nagayev/nagayev)
-2. 💪 Opened PR [#1](https://github.com/DaniinXorchenabo/some_repo/pull/1) in [DaniinXorchenabo/some_repo](https://github.com/DaniinXorchenabo/some_repo)
-3. 💪 Opened PR [#1](https://github.com/DeusMaksler/DeusMaksler.github.io/pull/1) in [DeusMaksler/DeusMaksler.github.io](https://github.com/DeusMaksler/DeusMaksler.github.io)
-4. 🎉 Merged PR [#1](https://github.com/jag-k/alice_app/pull/1) in [jag-k/alice_app](https://github.com/jag-k/alice_app)
-5. ❌ Closed PR [#1](https://github.com/jag-k/mp/pull/1) in [jag-k/mp](https://github.com/jag-k/mp)
+1. ❗️ Opened issue [#111](https://github.com/hteumeuleu/caniemail/issues/111) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
+2. 💪 Opened PR [#1](https://github.com/nagayev/nagayev/pull/1) in [nagayev/nagayev](https://github.com/nagayev/nagayev)
+3. 💪 Opened PR [#1](https://github.com/DaniinXorchenabo/some_repo/pull/1) in [DaniinXorchenabo/some_repo](https://github.com/DaniinXorchenabo/some_repo)
+4. 💪 Opened PR [#1](https://github.com/DeusMaksler/DeusMaksler.github.io/pull/1) in [DeusMaksler/DeusMaksler.github.io](https://github.com/DeusMaksler/DeusMaksler.github.io)
+5. 🎉 Merged PR [#1](https://github.com/jag-k/alice_app/pull/1) in [jag-k/alice_app](https://github.com/jag-k/alice_app)
 <!--END_SECTION:activity-->
 
 
