@@ -43,11 +43,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jag-k/SberFood/pull/1) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
-2. 🗣 Commented on [#65](https://github.com/hteumeuleu/caniemail/issues/65) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
-3. 🗣 Commented on [#111](https://github.com/hteumeuleu/caniemail/issues/111) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
-4. ❗️ Opened issue [#111](https://github.com/hteumeuleu/caniemail/issues/111) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
-5. 💪 Opened PR [#1](https://github.com/nagayev/nagayev/pull/1) in [nagayev/nagayev](https://github.com/nagayev/nagayev)
+1. 🎉 Merged PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
+2. 💪 Opened PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
+3. 🎉 Merged PR [#1](https://github.com/jag-k/SberFood/pull/1) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
+4. 🗣 Commented on [#65](https://github.com/hteumeuleu/caniemail/issues/65) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
+5. 🗣 Commented on [#111](https://github.com/hteumeuleu/caniemail/issues/111) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
 <!--END_SECTION:activity-->
 
 
