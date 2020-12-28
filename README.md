@@ -7,6 +7,7 @@
 - 🔭 Работаю над [AppStorrent Workflow для Alfred](https://github.com/jag-k/alfred-appstorrent)
 - 🌱 Сейчас я пытаюсь изучать GoLang и другие языки 🤣
 - 👯 Делаю небольшие проекты и сайты в команде [@onewhosayjack](https://github.com/onewhosayjack)
+- 💼 Стажируюсь в компании [Open Solution_](https://osinit.com)
 - ⚡ Забавный факт: Я являюсь разработчиком сайтов [SECON](https://secon.ru) и [SECOTHON](http://secothon.secon.ru) для компании [@secon_ru](https://github.com/secon_ru)
 
 <!--
