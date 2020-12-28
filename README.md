@@ -1,6 +1,6 @@
 ### Всем привет 👋
 
-![Jag_k's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&theme=react)
+![Jag_k's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&theme=dark)
 
 ## Я Full-stack разработчик
 
