@@ -16,7 +16,7 @@
 
 ### Связаться со мной:
 
-[<img align="left" width="22px" alt="jagk.ru" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" width="22px" alt="jagk.ru" style="fill: white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
 [<img align="left" width="22px" alt="Jag_k | VK" src="https://simpleicons.org/icons/vk.svg" />][vk]
 [<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
