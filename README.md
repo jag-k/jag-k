@@ -44,11 +44,11 @@
 ### :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/jag-k/fh-branbook/pull/1) in [jag-k/fh-branbook](https://github.com/jag-k/fh-branbook)
-2. 🎉 Merged PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
-3. 💪 Opened PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
-4. 🎉 Merged PR [#1](https://github.com/jag-k/SberFood/pull/1) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
-5. 🗣 Commented on [#65](https://github.com/hteumeuleu/caniemail/issues/65) in [hteumeuleu/caniemail](https://github.com/hteumeuleu/caniemail)
+1. 🎉 Merged PR [#2](https://github.com/jag-k/fh-brandbook/pull/2) in [jag-k/fh-brandbook](https://github.com/jag-k/fh-brandbook)
+2. ❌ Closed PR [#1](https://github.com/jag-k/fh-branbook/pull/1) in [jag-k/fh-branbook](https://github.com/jag-k/fh-branbook)
+3. 🎉 Merged PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
+4. 💪 Opened PR [#1](https://github.com/jag-k-stud/physic_lab-new/pull/1) in [jag-k-stud/physic_lab-new](https://github.com/jag-k-stud/physic_lab-new)
+5. 🎉 Merged PR [#1](https://github.com/jag-k/SberFood/pull/1) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
 <!--END_SECTION:activity-->
 
 
