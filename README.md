@@ -1,8 +1,8 @@
-### Всем привет 👋
+# Всем привет 👋
 
 ![Jag_k's Github Stats](https://github-readme-stats.codestackr.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&theme=dark)
 
-## Я Full-stack разработчик
+## 👨‍💻 Я Full-stack разработчик
 
 - 🔭 Работаю над [AppStorrent Workflow для Alfred](https://github.com/jag-k/alfred-appstorrent)
 - 🌱 Сейчас я пытаюсь изучать GoLang и другие языки 🤣
@@ -15,7 +15,7 @@
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="Jag_k Spotify Playing" width="350" />](https://open.spotify.com/user/31ywqv63aa7rzamr43lggowahbsa)
 -->
 
-### Связаться со мной:
+## 📞 Связаться со мной:
 
 [<img align="left" width="22px" alt="jagk.ru" style="fill: white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
@@ -27,7 +27,7 @@
 
 <br />
 
-### Поддержать меня:
+## 💸 Поддержать меня:
 <!--
 [<img align="left" alt="Patreon" src="http://ionicabizau.github.io/badges/patreon.svg" />][patreon]
 [<img align="left" alt="PayPal" src="http://ionicabizau.github.io/badges/paypal.svg" />][paypal]
@@ -41,7 +41,7 @@
 
 <br />
 
-### :zap: Последняя активность на Github</summary>
+## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
