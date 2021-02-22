@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#152](https://github.com/shower/core/pull/152) in [shower/core](https://github.com/shower/core)
-2. ❌ Closed PR [#1](https://github.com/jag-k/Codyhouse-Figma-Color-Importer/pull/1) in [jag-k/Codyhouse-Figma-Color-Importer](https://github.com/jag-k/Codyhouse-Figma-Color-Importer)
-3. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
-4. 💪 Opened PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
-5. 💪 Opened PR [#5](https://github.com/thecattest/yandex-tools/pull/5) in [thecattest/yandex-tools](https://github.com/thecattest/yandex-tools)
+1. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
+2. 💪 Opened PR [#152](https://github.com/shower/core/pull/152) in [shower/core](https://github.com/shower/core)
+3. ❌ Closed PR [#1](https://github.com/jag-k/Codyhouse-Figma-Color-Importer/pull/1) in [jag-k/Codyhouse-Figma-Color-Importer](https://github.com/jag-k/Codyhouse-Figma-Color-Importer)
+4. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
+5. 💪 Opened PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
 <!--END_SECTION:activity-->
 
 
