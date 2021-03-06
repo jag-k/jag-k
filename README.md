@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
-2. 💪 Opened PR [#2](https://github.com/DeusMaksler/DeusMaksler.github.io/pull/2) in [DeusMaksler/DeusMaksler.github.io](https://github.com/DeusMaksler/DeusMaksler.github.io)
-3. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
-4. 💪 Opened PR [#152](https://github.com/shower/core/pull/152) in [shower/core](https://github.com/shower/core)
-5. ❌ Closed PR [#1](https://github.com/jag-k/Codyhouse-Figma-Color-Importer/pull/1) in [jag-k/Codyhouse-Figma-Color-Importer](https://github.com/jag-k/Codyhouse-Figma-Color-Importer)
+1. 🎉 Merged PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+2. ❌ Reopened PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+3. ❌ Closed PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+4. ❌ Closed PR [#1](https://github.com/jag-k/GitHubLesson1/pull/1) in [jag-k/GitHubLesson1](https://github.com/jag-k/GitHubLesson1)
+5. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
 <!--END_SECTION:activity-->
 
 
