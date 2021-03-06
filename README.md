@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-2. ❌ Reopened PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-3. ❌ Closed PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-4. ❌ Closed PR [#1](https://github.com/jag-k/GitHubLesson1/pull/1) in [jag-k/GitHubLesson1](https://github.com/jag-k/GitHubLesson1)
-5. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/pwa/pull/1) in [jag-k/pwa](https://github.com/jag-k/pwa)
+2. 🎉 Merged PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+3. ❌ Reopened PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+4. ❌ Closed PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+5. ❌ Closed PR [#1](https://github.com/jag-k/GitHubLesson1/pull/1) in [jag-k/GitHubLesson1](https://github.com/jag-k/GitHubLesson1)
 <!--END_SECTION:activity-->
 
 
