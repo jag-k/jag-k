@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
-2. 💪 Opened PR [#152](https://github.com/shower/core/pull/152) in [shower/core](https://github.com/shower/core)
-3. ❌ Closed PR [#1](https://github.com/jag-k/Codyhouse-Figma-Color-Importer/pull/1) in [jag-k/Codyhouse-Figma-Color-Importer](https://github.com/jag-k/Codyhouse-Figma-Color-Importer)
-4. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
-5. 💪 Opened PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
+1. 💪 Opened PR [#2](https://github.com/DeusMaksler/DeusMaksler.github.io/pull/2) in [DeusMaksler/DeusMaksler.github.io](https://github.com/DeusMaksler/DeusMaksler.github.io)
+2. 🗣 Commented on [#152](https://github.com/shower/core/issues/152) in [shower/core](https://github.com/shower/core)
+3. 💪 Opened PR [#152](https://github.com/shower/core/pull/152) in [shower/core](https://github.com/shower/core)
+4. ❌ Closed PR [#1](https://github.com/jag-k/Codyhouse-Figma-Color-Importer/pull/1) in [jag-k/Codyhouse-Figma-Color-Importer](https://github.com/jag-k/Codyhouse-Figma-Color-Importer)
+5. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-lyceum-api/pull/1) in [jag-k/yandex-lyceum-api](https://github.com/jag-k/yandex-lyceum-api)
 <!--END_SECTION:activity-->
 
 
