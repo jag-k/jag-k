@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jag-k/pwa/pull/1) in [jag-k/pwa](https://github.com/jag-k/pwa)
-2. 🎉 Merged PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-3. ❌ Reopened PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-4. ❌ Closed PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
-5. ❌ Closed PR [#1](https://github.com/jag-k/GitHubLesson1/pull/1) in [jag-k/GitHubLesson1](https://github.com/jag-k/GitHubLesson1)
+1. 🗣 Commented on [#1](https://github.com/web-standards-ru/indie-list/issues/1) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
+2. 🎉 Merged PR [#1](https://github.com/jag-k/pwa/pull/1) in [jag-k/pwa](https://github.com/jag-k/pwa)
+3. 🎉 Merged PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+4. ❌ Reopened PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
+5. ❌ Closed PR [#2](https://github.com/jag-k/VKBot/pull/2) in [jag-k/VKBot](https://github.com/jag-k/VKBot)
 <!--END_SECTION:activity-->
 
 
