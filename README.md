@@ -45,10 +45,10 @@
   
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
-2. 🎉 Merged PR [#6](https://github.com/jag-k/slack-plus-redmine/pull/6) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
-3. 💪 Opened PR [#6](https://github.com/jag-k/slack-plus-redmine/pull/6) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
-4. 🎉 Merged PR [#5](https://github.com/jag-k/slack-plus-redmine/pull/5) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
-5. 🎉 Merged PR [#4](https://github.com/jag-k/slack-plus-redmine/pull/4) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
+2. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
+3. 🎉 Merged PR [#6](https://github.com/jag-k/slack-plus-redmine/pull/6) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
+4. 💪 Opened PR [#6](https://github.com/jag-k/slack-plus-redmine/pull/6) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
+5. 🎉 Merged PR [#5](https://github.com/jag-k/slack-plus-redmine/pull/5) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
 <!--END_SECTION:activity-->
 
 
