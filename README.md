@@ -44,11 +44,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jag-k/pwa/pull/2) in [jag-k/pwa](https://github.com/jag-k/pwa)
-2. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
+1. 🎉 Merged PR [#3](https://github.com/jag-k/pwa/pull/3) in [jag-k/pwa](https://github.com/jag-k/pwa)
+2. 🎉 Merged PR [#2](https://github.com/jag-k/pwa/pull/2) in [jag-k/pwa](https://github.com/jag-k/pwa)
 3. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
 4. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
-5. 🎉 Merged PR [#6](https://github.com/jag-k/slack-plus-redmine/pull/6) in [jag-k/slack-plus-redmine](https://github.com/jag-k/slack-plus-redmine)
+5. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
 <!--END_SECTION:activity-->
 
 
