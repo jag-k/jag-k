@@ -50,7 +50,7 @@
 [twitter]: https://twitter.com/jag_k_
 [instagram]: https://instagram.com/jag_k_
 [vk]: https://vk.com/jag_konon
-[telegram]: https://telegram.me/@jag_k
+[telegram]: https://telegram.me/jag_k
 [facebook]: https://facebook.com/jag.konon
 [devto]: https://dev.to/jag_k
 
