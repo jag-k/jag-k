@@ -17,27 +17,21 @@
 
 ## 📞 Связаться со мной:
 
-[<img align="left" width="22px" alt="jagk.ru" style="fill: white" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
-[<img align="left" width="22px" alt="Jag_k | VK" src="https://simpleicons.org/icons/vk.svg" />][vk]
-[<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
-[<img align="left" width="22px" alt="Jag_k | Telegram" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img align="left" width="22px" alt="Jag_k | Facebook" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][devto]
+[<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simple-icons.github.io/simple-icons-website/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" alt="Jag_k | VK" src="https://simple-icons.github.io/simple-icons-website/icons/vk.svg" />][vk]
+[<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simple-icons.github.io/simple-icons-website/icons/instagram.svg" />][instagram]
+[<img align="left" width="22px" alt="Jag_k | Telegram" src="https://simple-icons.github.io/simple-icons-website/icons/telegram.svg" />][telegram]
+[<img align="left" width="22px" alt="Jag_k | Facebook" src="https://simple-icons.github.io/simple-icons-website/icons/facebook.svg" />][facebook]
+[<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://simple-icons.github.io/simple-icons-website/icons/dev-badge.svg" />][devto]
 
 <br />
 
 ## 💸 Поддержать меня:
-<!--
-[<img align="left" alt="Patreon" src="http://ionicabizau.github.io/badges/patreon.svg" />][patreon]
-[<img align="left" alt="PayPal" src="http://ionicabizau.github.io/badges/paypal.svg" />][paypal]
-[<img align="left" alt="Open Collective backers and sponsors" src="https://img.shields.io/opencollective/all/jag_k?label=Open%20Collective">][opencollective]
--->
 
-[<img align="left" width="22px" alt="Patreon" src="https://simpleicons.org/icons/patreon.svg" />][patreon]
-[<img align="left" width="22px" alt="PayPal" src="https://simpleicons.org/icons/paypal.svg" />][paypal]
-[<img align="left" width="22px" alt="Open Collective" src="https://simpleicons.org/icons/opencollective.svg">][opencollective]
-[<img align="left" width="22px" alt="Qiwi" src="https://simpleicons.org/icons/qiwi.svg">][qiwi]
+[<img align="left" width="22px" alt="Patreon" src="https://simple-icons.github.io/simple-icons-website/icons/patreon.svg" />][patreon]
+[<img align="left" width="22px" alt="PayPal" src="https://simple-icons.github.io/simple-icons-website/icons/icons/paypal.svg" />][paypal]
+[<img align="left" width="22px" alt="Open Collective" src="https://simple-icons.github.io/simple-icons-website/icons/opencollective.svg">][opencollective]
+[<img align="left" width="22px" alt="Qiwi" src="https://simple-icons.github.io/simple-icons-website/icons/qiwi.svg">][qiwi]
 
 <br />
 
