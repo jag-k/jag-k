@@ -22,14 +22,14 @@
 [<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simple-icons.github.io/simple-icons-website/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" alt="Jag_k | Telegram" src="https://simple-icons.github.io/simple-icons-website/icons/telegram.svg" />][telegram]
 [<img align="left" width="22px" alt="Jag_k | Facebook" src="https://simple-icons.github.io/simple-icons-website/icons/facebook.svg" />][facebook]
-[<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://simple-icons.github.io/simple-icons-website/icons/dev-badge.svg" />][devto]
+[<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://simple-icons.github.io/simple-icons-website/icons/dev-dot-to.svg" />][devto]
 
 <br />
 
 ## 💸 Поддержать меня:
 
 [<img align="left" width="22px" alt="Patreon" src="https://simple-icons.github.io/simple-icons-website/icons/patreon.svg" />][patreon]
-[<img align="left" width="22px" alt="PayPal" src="https://simple-icons.github.io/simple-icons-website/icons/icons/paypal.svg" />][paypal]
+[<img align="left" width="22px" alt="PayPal" src="https://simple-icons.github.io/simple-icons-website/icons/paypal.svg" />][paypal]
 [<img align="left" width="22px" alt="Open Collective" src="https://simple-icons.github.io/simple-icons-website/icons/opencollective.svg">][opencollective]
 [<img align="left" width="22px" alt="Qiwi" src="https://simple-icons.github.io/simple-icons-website/icons/qiwi.svg">][qiwi]
 
