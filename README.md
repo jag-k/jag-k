@@ -38,11 +38,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1083](https://github.com/11ty/11ty-website/pull/1083) in [11ty/11ty-website](https://github.com/11ty/11ty-website)
-2. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
+1. 💪 Opened PR [#270](https://github.com/joshbuchea/HEAD/pull/270) in [joshbuchea/HEAD](https://github.com/joshbuchea/HEAD)
+2. 💪 Opened PR [#1083](https://github.com/11ty/11ty-website/pull/1083) in [11ty/11ty-website](https://github.com/11ty/11ty-website)
 3. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
 4. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
-5. 🎉 Merged PR [#1](https://github.com/jag-k/indie-list/pull/1) in [jag-k/indie-list](https://github.com/jag-k/indie-list)
+5. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
 <!--END_SECTION:activity-->
 
 
