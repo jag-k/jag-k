@@ -17,9 +17,9 @@
 
 ## 📞 Связаться со мной:
 
-[<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/twitter.svg" />][twitter]
-[<img align="left" width="22px" alt="Jag_k | VK" src="https://simpleicons.org/vk.svg" />][vk]
-[<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simpleicons.org/instagram.svg" />][instagram]
+[<img align="left" width="22px" alt="Jag_k | Twitter" src="https://simpleicons.org/icons/twitter.svg" />][twitter]
+[<img align="left" width="22px" alt="Jag_k | VK" src="https://simpleicons.org/icons/vk.svg" />][vk]
+[<img align="left" width="22px" alt="Jag_k | Instagram" src="https://simpleicons.org/icons/instagram.svg" />][instagram]
 [<img align="left" width="22px" alt="Jag_k | Telegram" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
 [<img align="left" width="22px" alt="Jag_k | Facebook" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
 [<img align="left" width="22px" alt="Jag_k | DEV Profile" src="https://simpleicons.org/icons/devdotto.svg" />][devto]
