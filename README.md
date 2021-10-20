@@ -38,11 +38,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jag-k/SberFood/pull/2) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
-2. 💪 Opened PR [#4](https://github.com/nin-jin/slides/pull/4) in [nin-jin/slides](https://github.com/nin-jin/slides)
-3. 💪 Opened PR [#641](https://github.com/web-standards-ru/calendar/pull/641) in [web-standards-ru/calendar](https://github.com/web-standards-ru/calendar)
-4. 🗣 Commented on [#44](https://github.com/Otanikotani/view-github-actions-idea-plugin/issues/44) in [Otanikotani/view-github-actions-idea-plugin](https://github.com/Otanikotani/view-github-actions-idea-plugin)
-5. 🗣 Commented on [#9](https://github.com/web-standards-ru/indie-list/issues/9) in [web-standards-ru/indie-list](https://github.com/web-standards-ru/indie-list)
+1. ❗️ Opened issue [#685](https://github.com/withfig/autocomplete/issues/685) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. 🎉 Merged PR [#2](https://github.com/jag-k/SberFood/pull/2) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
+3. 💪 Opened PR [#4](https://github.com/nin-jin/slides/pull/4) in [nin-jin/slides](https://github.com/nin-jin/slides)
+4. 💪 Opened PR [#641](https://github.com/web-standards-ru/calendar/pull/641) in [web-standards-ru/calendar](https://github.com/web-standards-ru/calendar)
+5. 🗣 Commented on [#44](https://github.com/Otanikotani/view-github-actions-idea-plugin/issues/44) in [Otanikotani/view-github-actions-idea-plugin](https://github.com/Otanikotani/view-github-actions-idea-plugin)
 <!--END_SECTION:activity-->
 
 
