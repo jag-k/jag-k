@@ -38,11 +38,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
-2. ❗️ Opened issue [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
-3. 💪 Opened PR [#687](https://github.com/withfig/autocomplete/pull/687) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-4. ❗️ Opened issue [#685](https://github.com/withfig/autocomplete/issues/685) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-5. 🎉 Merged PR [#2](https://github.com/jag-k/SberFood/pull/2) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
+1. 🗣 Commented on [#687](https://github.com/withfig/autocomplete/issues/687) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+2. 🗣 Commented on [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
+3. ❗️ Opened issue [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
+4. 💪 Opened PR [#687](https://github.com/withfig/autocomplete/pull/687) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
+5. ❗️ Opened issue [#685](https://github.com/withfig/autocomplete/issues/685) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
 <!--END_SECTION:activity-->
 
 
