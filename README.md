@@ -38,11 +38,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2181](https://github.com/doka-guide/content/pull/2181) in [doka-guide/content](https://github.com/doka-guide/content)
-2. ❗️ Opened issue [#674](https://github.com/doka-guide/platform/issues/674) in [doka-guide/platform](https://github.com/doka-guide/platform)
-3. 🗣 Commented on [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
-4. 🗣 Commented on [#687](https://github.com/withfig/autocomplete/issues/687) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
-5. 🗣 Commented on [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
+1. ❗️ Opened issue [#2182](https://github.com/doka-guide/content/issues/2182) in [doka-guide/content](https://github.com/doka-guide/content)
+2. 💪 Opened PR [#2181](https://github.com/doka-guide/content/pull/2181) in [doka-guide/content](https://github.com/doka-guide/content)
+3. ❗️ Opened issue [#674](https://github.com/doka-guide/platform/issues/674) in [doka-guide/platform](https://github.com/doka-guide/platform)
+4. 🗣 Commented on [#2051](https://github.com/doka-guide/content/issues/2051) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🗣 Commented on [#687](https://github.com/withfig/autocomplete/issues/687) in [withfig/autocomplete](https://github.com/withfig/autocomplete)
 <!--END_SECTION:activity-->
 
 
