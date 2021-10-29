@@ -38,11 +38,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2214](https://github.com/doka-guide/content/pull/2214) in [doka-guide/content](https://github.com/doka-guide/content)
-2. 🗣 Commented on [#2212](https://github.com/doka-guide/content/issues/2212) in [doka-guide/content](https://github.com/doka-guide/content)
-3. 💪 Opened PR [#2212](https://github.com/doka-guide/content/pull/2212) in [doka-guide/content](https://github.com/doka-guide/content)
-4. ❗️ Opened issue [#2182](https://github.com/doka-guide/content/issues/2182) in [doka-guide/content](https://github.com/doka-guide/content)
-5. 💪 Opened PR [#2181](https://github.com/doka-guide/content/pull/2181) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 🗣 Commented on [#2212](https://github.com/doka-guide/content/issues/2212) in [doka-guide/content](https://github.com/doka-guide/content)
+2. 💪 Opened PR [#2214](https://github.com/doka-guide/content/pull/2214) in [doka-guide/content](https://github.com/doka-guide/content)
+3. 🗣 Commented on [#2212](https://github.com/doka-guide/content/issues/2212) in [doka-guide/content](https://github.com/doka-guide/content)
+4. 💪 Opened PR [#2212](https://github.com/doka-guide/content/pull/2212) in [doka-guide/content](https://github.com/doka-guide/content)
+5. ❗️ Opened issue [#2182](https://github.com/doka-guide/content/issues/2182) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
