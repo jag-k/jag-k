@@ -37,11 +37,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
-2. 🗣 Commented on [#2232](https://github.com/doka-guide/content/issues/2232) in [doka-guide/content](https://github.com/doka-guide/content)
-3. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
-4. ❗️ Opened issue [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
-5. ❗️ Opened issue [#2232](https://github.com/doka-guide/content/issues/2232) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/jag-k/pull/1) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+2. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
+3. 🗣 Commented on [#2232](https://github.com/doka-guide/content/issues/2232) in [doka-guide/content](https://github.com/doka-guide/content)
+4. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
+5. ❗️ Opened issue [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
