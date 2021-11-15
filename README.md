@@ -40,8 +40,8 @@
 1. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 2. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 3. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
-4. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
-5. 🎉 Merged PR [#3](https://github.com/jag-k/SberFood/pull/3) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
+4. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+5. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
