@@ -37,7 +37,7 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 💪 Opened PR [#2414](https://github.com/doka-guide/content/pull/2414) in [doka-guide/content](https://github.com/doka-guide/content)
 2. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 3. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 4. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
