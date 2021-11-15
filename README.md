@@ -39,9 +39,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 2. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
-3. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
-4. 🎉 Merged PR [#3](https://github.com/jag-k/SberFood/pull/3) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
-5. 🎉 Merged PR [#1](https://github.com/jag-k/jag-k/pull/1) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+3. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+4. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🎉 Merged PR [#3](https://github.com/jag-k/SberFood/pull/3) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
 <!--END_SECTION:activity-->
 
 
