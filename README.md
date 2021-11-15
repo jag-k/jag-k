@@ -41,7 +41,7 @@
 2. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 3. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 4. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
-5. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🗣 Commented on [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
