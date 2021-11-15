@@ -37,11 +37,11 @@
 ## :zap: Последняя активность на Github</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jag-k/SberFood/pull/3) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
-2. 🎉 Merged PR [#1](https://github.com/jag-k/jag-k/pull/1) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-3. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
-4. 🗣 Commented on [#2232](https://github.com/doka-guide/content/issues/2232) in [doka-guide/content](https://github.com/doka-guide/content)
-5. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
+1. ❗️ Opened issue [#2410](https://github.com/doka-guide/content/issues/2410) in [doka-guide/content](https://github.com/doka-guide/content)
+2. 🎉 Merged PR [#3](https://github.com/jag-k/SberFood/pull/3) in [jag-k/SberFood](https://github.com/jag-k/SberFood)
+3. 🎉 Merged PR [#1](https://github.com/jag-k/jag-k/pull/1) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+4. 🗣 Commented on [#2233](https://github.com/doka-guide/content/issues/2233) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🗣 Commented on [#2232](https://github.com/doka-guide/content/issues/2232) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
