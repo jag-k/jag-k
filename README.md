@@ -2,6 +2,7 @@
 
 <img alt="Jag_k&#39;s Github Stats" height="195" src="https://github-readme-stats.vercel.app/api?username=jag-k&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;count_private=true"/>
 
+
 ## 👨‍💻 Я — Full-stack разработчик
 
 - 🔭 Активно помогаю в развитии [Доки](https://doka.guide)
@@ -19,7 +20,9 @@
 [<img align="left" width="22px" alt="Jag_k | Facebook" src="icons/outline/facebook.svg"/>][facebook]
 [<img align="left" width="22px" alt="Jag_k | DEV Profile" src="icons/outline/devdotto.svg"/>][devto]
 
--------
+
+<br>
+
 
 ## 💸 Поддержать меня:
 
@@ -28,7 +31,9 @@
 [<img align="left" width="22px" alt="Jag_k | Open Collective" src="icons/outline/opencollective.svg"/>][opencollective]
 [<img align="left" width="22px" alt="Jag_k | Qiwi" src="icons/outline/qiwi.svg"/>][qiwi]
 
--------
+
+<br>
+
 
 ## :zap: Последняя активность на Github
   
