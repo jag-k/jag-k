@@ -13,26 +13,13 @@
 
 ## 📞 Связаться со мной:
 
-[<img align="left" width="32px" alt="Jag_k | Twitter" src="icons/twitter.svg"/>][twitter]
-[<img align="left" width="32px" alt="Jag_k | VK" src="icons/vk.svg"/>][vk]
-[<img align="left" width="32px" alt="Jag_k | Instagram" src="icons/instagram.svg"/>][instagram]
-[<img align="left" width="32px" alt="Jag_k | Telegram" src="icons/telegram.svg"/>][telegram]
-[<img align="left" width="32px" alt="Jag_k | Facebook" src="icons/facebook.svg"/>][facebook]
-[<img align="left" width="32px" alt="Jag_k | DEV Profile" src="icons/devdotto.svg"/>][devto]
-
-
-<br>
-
+| [![Jag_k on Twitter](icons/twitter.svg)][twitter] | [![Jag_k on VK](icons/vk.svg)][vk] | [![Jag_k on Instagram](icons/instagram.svg)][instagram] | [![Jag_k on Telegram](icons/telegram.svg)][telegram] | [![Jag_k on Facebook](icons/facebook.svg)][facebook] | [![Jag_k on DEV Profile](icons/devdotto.svg)][devto] |
+| --- | --- | --- | --- | --- | --- |
 
 ## 💸 Поддержать меня:
 
-[<img align="left" width="32px" alt="Jag_k | Patreon" src="icons/patreon.svg"/>][patreon]
-[<img align="left" width="32px" alt="Jag_k | PayPal" src="icons/paypal.svg"/>][paypal]
-[<img align="left" width="32px" alt="Jag_k | Open Collective" src="icons/opencollective.svg"/>][opencollective]
-[<img align="left" width="32px" alt="Jag_k | Qiwi" src="icons/qiwi.svg"/>][qiwi]
-
-
-<br>
+| [![Jag_k on Patreon](icons/patreon.svg)][patreon] | [![Jag_k on PayPal](icons/paypal.svg)][paypal] | [![Jag_k on Open Collective](icons/opencollective.svg)][opencollective] | [![Jag_k on Qiwi](icons/qiwi.svg)][qiwi] |
+| --- | --- | --- | --- |
 
 
 ## :zap: Последняя активность на Github

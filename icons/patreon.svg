@@ -1,4 +1,1 @@
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-    <title>Patreon</title>
-    <path d="M0 .48v23.04h4.22V.48zm15.385 0c-4.764 0-8.641 3.88-8.641 8.65 0 4.755 3.877 8.623 8.641 8.623 4.75 0 8.615-3.868 8.615-8.623C24 4.36 20.136.48 15.385.48 z" fill="var(--color-fg-default)"/>
-</svg>
+<svg width="32" height="32" fill="none" xmlns="http://www.w3.org/2000/svg"><rect width="32" height="32" rx="8" transform="matrix(-1 0 0 1 32 0)" fill="#fff"/><path d="M5 5v22.08h4.044V5H5Zm14.744 0c-4.566 0-8.281 3.718-8.281 8.29 0 4.556 3.716 8.263 8.281 8.263 4.552 0 8.256-3.707 8.256-8.263C28 8.718 24.297 5 19.744 5Z" fill="#000"/></svg>
