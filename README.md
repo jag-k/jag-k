@@ -13,12 +13,12 @@
 
 ## 📞 Связаться со мной:
 
-[<img align="left" width="32px" alt="Jag_k | Twitter" src="icons/ios_rounded/twitter.svg"/>][twitter]
-[<img align="left" width="32px" alt="Jag_k | VK" src="icons/ios_rounded/vk.svg"/>][vk]
-[<img align="left" width="32px" alt="Jag_k | Instagram" src="icons/ios_rounded/instagram.svg"/>][instagram]
-[<img align="left" width="32px" alt="Jag_k | Telegram" src="icons/ios_rounded/telegram.svg"/>][telegram]
-[<img align="left" width="32px" alt="Jag_k | Facebook" src="icons/ios_rounded/facebook.svg"/>][facebook]
-[<img align="left" width="32px" alt="Jag_k | DEV Profile" src="icons/ios_rounded/devdotto.svg"/>][devto]
+[<img align="left" width="32px" alt="Jag_k | Twitter" src="icons/bg/twitter.svg"/>][twitter]
+[<img align="left" width="32px" alt="Jag_k | VK" src="icons/bg/vk.svg"/>][vk]
+[<img align="left" width="32px" alt="Jag_k | Instagram" src="icons/bg/instagram.svg"/>][instagram]
+[<img align="left" width="32px" alt="Jag_k | Telegram" src="icons/bg/telegram.svg"/>][telegram]
+[<img align="left" width="32px" alt="Jag_k | Facebook" src="icons/bg/facebook.svg"/>][facebook]
+[<img align="left" width="32px" alt="Jag_k | DEV Profile" src="icons/bg/devdotto.svg"/>][devto]
 
 
 <br>
@@ -26,10 +26,10 @@
 
 ## 💸 Поддержать меня:
 
-[<img align="left" width="32px" alt="Jag_k | Patreon" src="icons/ios_rounded/patreon.svg"/>][patreon]
-[<img align="left" width="32px" alt="Jag_k | PayPal" src="icons/ios_rounded/paypal.svg"/>][paypal]
-[<img align="left" width="32px" alt="Jag_k | Open Collective" src="icons/ios_rounded/opencollective.svg"/>][opencollective]
-[<img align="left" width="32px" alt="Jag_k | Qiwi" src="icons/ios_rounded/qiwi.svg"/>][qiwi]
+[<img align="left" width="32px" alt="Jag_k | Patreon" src="icons/bg/patreon.svg"/>][patreon]
+[<img align="left" width="32px" alt="Jag_k | PayPal" src="icons/bg/paypal.svg"/>][paypal]
+[<img align="left" width="32px" alt="Jag_k | Open Collective" src="icons/bg/opencollective.svg"/>][opencollective]
+[<img align="left" width="32px" alt="Jag_k | Qiwi" src="icons/bg/qiwi.svg"/>][qiwi]
 
 
 <br>
