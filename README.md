@@ -19,8 +19,6 @@
 [<img align="left" width="32px" alt="Jag_k | Telegram" src="icons/telegram.svg"/>][telegram]
 [<img align="left" width="32px" alt="Jag_k | Facebook" src="icons/facebook.svg"/>][facebook]
 [<img align="left" width="32px" alt="Jag_k | DEV Profile" src="icons/devdotto.svg"/>][devto]
-
-
 <br>
 
 
@@ -30,8 +28,6 @@
 [<img align="left" width="32px" alt="Jag_k | PayPal" src="icons/paypal.svg"/>][paypal]
 [<img align="left" width="32px" alt="Jag_k | Open Collective" src="icons/opencollective.svg"/>][opencollective]
 [<img align="left" width="32px" alt="Jag_k | Qiwi" src="icons/qiwi.svg"/>][qiwi]
-
-
 <br>
 
 
