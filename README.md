@@ -36,9 +36,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
 2. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
-3. 🎉 Merged PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-4. 💪 Opened PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-5. 💪 Opened PR [#2414](https://github.com/doka-guide/content/pull/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+3. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+4. 🎉 Merged PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+5. 💪 Opened PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
 <!--END_SECTION:activity-->
 
 
