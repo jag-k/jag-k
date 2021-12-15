@@ -34,11 +34,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
-2. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
+2. ❗️ Opened issue [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
 3. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
-4. 🎉 Merged PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-5. 💪 Opened PR [#2](https://github.com/jag-k/jag-k/pull/2) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+4. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
 <!--END_SECTION:activity-->
 
 
