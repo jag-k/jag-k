@@ -34,11 +34,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jag-k/shower-core/pull/1) in [jag-k/shower-core](https://github.com/jag-k/shower-core)
-2. 💪 Opened PR [#1](https://github.com/jag-k/core/pull/1) in [jag-k/core](https://github.com/jag-k/core)
-3. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
-4. ❗️ Opened issue [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
-5. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 🗣 Commented on [#1](https://github.com/jag-k/homebridge-magicmirror/issues/1) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
+2. 🎉 Merged PR [#1](https://github.com/jag-k/shower-core/pull/1) in [jag-k/shower-core](https://github.com/jag-k/shower-core)
+3. 💪 Opened PR [#1](https://github.com/jag-k/core/pull/1) in [jag-k/core](https://github.com/jag-k/core)
+4. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
+5. ❗️ Opened issue [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
 <!--END_SECTION:activity-->
 
 
