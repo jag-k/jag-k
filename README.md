@@ -34,11 +34,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#154](https://github.com/shower/core/pull/154) in [shower/core](https://github.com/shower/core)
-2. 💪 Opened PR [#1](https://github.com/sdetweil/MMM-PythonPrint/pull/1) in [sdetweil/MMM-PythonPrint](https://github.com/sdetweil/MMM-PythonPrint)
-3. 🗣 Commented on [#1](https://github.com/jag-k/homebridge-magicmirror/issues/1) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
-4. 🎉 Merged PR [#1](https://github.com/jag-k/shower-core/pull/1) in [jag-k/shower-core](https://github.com/jag-k/shower-core)
-5. 💪 Opened PR [#1](https://github.com/jag-k/core/pull/1) in [jag-k/core](https://github.com/jag-k/core)
+1. 🗣 Commented on [#154](https://github.com/shower/core/issues/154) in [shower/core](https://github.com/shower/core)
+2. 💪 Opened PR [#154](https://github.com/shower/core/pull/154) in [shower/core](https://github.com/shower/core)
+3. 💪 Opened PR [#1](https://github.com/sdetweil/MMM-PythonPrint/pull/1) in [sdetweil/MMM-PythonPrint](https://github.com/sdetweil/MMM-PythonPrint)
+4. 🗣 Commented on [#1](https://github.com/jag-k/homebridge-magicmirror/issues/1) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
+5. 🎉 Merged PR [#1](https://github.com/jag-k/shower-core/pull/1) in [jag-k/shower-core](https://github.com/jag-k/shower-core)
 <!--END_SECTION:activity-->
 
 
