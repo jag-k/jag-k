@@ -34,11 +34,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
-2. 🗣 Commented on [#154](https://github.com/shower/core/issues/154) in [shower/core](https://github.com/shower/core)
-3. 💪 Opened PR [#154](https://github.com/shower/core/pull/154) in [shower/core](https://github.com/shower/core)
-4. 💪 Opened PR [#1](https://github.com/sdetweil/MMM-PythonPrint/pull/1) in [sdetweil/MMM-PythonPrint](https://github.com/sdetweil/MMM-PythonPrint)
-5. 🗣 Commented on [#1](https://github.com/jag-k/homebridge-magicmirror/issues/1) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
+1. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+2. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
+3. 🗣 Commented on [#154](https://github.com/shower/core/issues/154) in [shower/core](https://github.com/shower/core)
+4. 💪 Opened PR [#154](https://github.com/shower/core/pull/154) in [shower/core](https://github.com/shower/core)
+5. 💪 Opened PR [#1](https://github.com/sdetweil/MMM-PythonPrint/pull/1) in [sdetweil/MMM-PythonPrint](https://github.com/sdetweil/MMM-PythonPrint)
 <!--END_SECTION:activity-->
 
 
