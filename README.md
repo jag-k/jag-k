@@ -1,9 +1,7 @@
 # Всем привет 👋
 
-![Jag_k's GitHub Status](https://github-readme-stats.vercel.app/api?username=jag-k&amp;show_icons=true&amp;hide_border=true&amp;theme=dark&amp;count_private=true#gh-dark-mode-only)
-![Jag_k's GitHub Status](https://github-readme-stats.vercel.app/api?username=jag-k&amp;show_icons=true&amp;hide_border=true&amp;theme=light&amp;count_private=true#gh-light-mode-only)
-
-
+![Jag_k's GitHub Status](https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=dark#gh-dark-mode-only)
+![Jag_k's GitHub Status](https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=light#gh-light-mode-only)
 
 ## 👨‍💻 Я — Full-stack разработчик
 
