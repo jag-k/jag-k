@@ -5,9 +5,10 @@
 
 ## 👨‍💻 Я — Full-stack разработчик
 
+- 🚿 Maintainer движка для презентаций [Shower](https://github.com/shower)
 - 🔭 Активно помогаю в развитии [Доки](https://doka.guide)
 - 🌱 Делаю плагины для [Figma](https://figma.com) и [VSCode](https://code.visualstudio.com)
-- 👯 Делаю проекты и сайты в команде [@LuminesFox](https://github.com/luminesfox)
+- 🚕 Разрабатываю backend [Яндекс.Go](https://go.yandex.ru) в [Яндексе](https://github.com/yandex)
 - ⚡ Интересный факт: Я являюсь разработчиком сайтов [SECON](https://secon.ru), [SECON'2021](https://2021.secon.ru) и [SECOTHON](http://secothon.secon.ru) для компании [@secon_ru](https://github.com/secon_ru)
 
 
