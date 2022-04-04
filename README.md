@@ -35,11 +35,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
-2. ❗️ Closed issue [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
-3. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
-4. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
-5. 🗣 Commented on [#154](https://github.com/shower/core/issues/154) in [shower/core](https://github.com/shower/core)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-balance/pull/1) in [jag-k/yandex-balance](https://github.com/jag-k/yandex-balance)
+2. 🗣 Commented on [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
+3. ❗️ Closed issue [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
+4. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+5. 🗣 Commented on [#381](https://github.com/shower/shower/issues/381) in [shower/shower](https://github.com/shower/shower)
 <!--END_SECTION:activity-->
 
 
