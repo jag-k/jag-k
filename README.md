@@ -36,11 +36,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#155](https://github.com/shower/core/pull/155) in [shower/core](https://github.com/shower/core)
-2. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-balance/pull/1) in [jag-k/yandex-balance](https://github.com/jag-k/yandex-balance)
-3. 🗣 Commented on [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
-4. ❗️ Closed issue [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
-5. 🗣 Commented on [#2414](https://github.com/doka-guide/content/issues/2414) in [doka-guide/content](https://github.com/doka-guide/content)
+1. 🗣 Commented on [#2](https://github.com/jag-k/homebridge-magicmirror/issues/2) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
+2. 💪 Opened PR [#155](https://github.com/shower/core/pull/155) in [shower/core](https://github.com/shower/core)
+3. 🎉 Merged PR [#1](https://github.com/jag-k/yandex-balance/pull/1) in [jag-k/yandex-balance](https://github.com/jag-k/yandex-balance)
+4. 🗣 Commented on [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
+5. ❗️ Closed issue [#1](https://github.com/ulatov/canithemecolor/issues/1) in [ulatov/canithemecolor](https://github.com/ulatov/canithemecolor)
 <!--END_SECTION:activity-->
 
 
