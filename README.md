@@ -13,21 +13,21 @@
 
 ## 📞 Связаться со мной:
 
-[<!--<si-twitter alt="Jag_k | Twitter"/>--><img width="32px" src="icons/twitter.svg#gh-light-mode-only" alt="Jag_k | Twitter"/><img width="32px" src="icons/twitter.dark.svg#gh-dark-mode-only" alt="Jag_k | Twitter"/>][twitter]
-[<!--<si-vk alt="Jag_k | VK"/>--><img width="32px" src="icons/vk.svg#gh-light-mode-only" alt="Jag_k | VK"/><img width="32px" src="icons/vk.dark.svg#gh-dark-mode-only" alt="Jag_k | VK"/>][vk]
-[<!--<si-instagram alt="Jag_k | Instagram"/>--><img width="32px" src="icons/instagram.svg#gh-light-mode-only" alt="Jag_k | Instagram"/><img width="32px" src="icons/instagram.dark.svg#gh-dark-mode-only" alt="Jag_k | Instagram"/>][instagram]
-[<!--<si-telegram alt="Jag_k | Telegram"/>--><img width="32px" src="icons/telegram.svg#gh-light-mode-only" alt="Jag_k | Telegram"/><img width="32px" src="icons/telegram.dark.svg#gh-dark-mode-only" alt="Jag_k | Telegram"/>][telegram]
-[<!--<si-facebook alt="Jag_k | Facebook"/>--><img width="32px" src="icons/facebook.svg#gh-light-mode-only" alt="Jag_k | Facebook"/><img width="32px" src="icons/facebook.dark.svg#gh-dark-mode-only" alt="Jag_k | Facebook"/>][facebook]
-[<!--<si-devdotto alt="Jag_k | DEV Profile"/>--><img width="32px" src="icons/devdotto.svg#gh-light-mode-only" alt="Jag_k | DEV Profile"/><img width="32px" src="icons/devdotto.dark.svg#gh-dark-mode-only" alt="Jag_k | DEV Profile"/>][devto]
+[<!--<si-twitter alt="Jag_k | Twitter"/>--><img width="32px" src="icons/twitter.png#gh-light-mode-only" alt="Jag_k | Twitter"/><img width="32px" src="icons/twitter.dark.png#gh-dark-mode-only" alt="Jag_k | Twitter"/>][twitter]
+[<!--<si-vk alt="Jag_k | VK"/>--><img width="32px" src="icons/vk.png#gh-light-mode-only" alt="Jag_k | VK"/><img width="32px" src="icons/vk.dark.png#gh-dark-mode-only" alt="Jag_k | VK"/>][vk]
+[<!--<si-instagram alt="Jag_k | Instagram"/>--><img width="32px" src="icons/instagram.png#gh-light-mode-only" alt="Jag_k | Instagram"/><img width="32px" src="icons/instagram.dark.png#gh-dark-mode-only" alt="Jag_k | Instagram"/>][instagram]
+[<!--<si-telegram alt="Jag_k | Telegram"/>--><img width="32px" src="icons/telegram.png#gh-light-mode-only" alt="Jag_k | Telegram"/><img width="32px" src="icons/telegram.dark.png#gh-dark-mode-only" alt="Jag_k | Telegram"/>][telegram]
+[<!--<si-facebook alt="Jag_k | Facebook"/>--><img width="32px" src="icons/facebook.png#gh-light-mode-only" alt="Jag_k | Facebook"/><img width="32px" src="icons/facebook.dark.png#gh-dark-mode-only" alt="Jag_k | Facebook"/>][facebook]
+[<!--<si-devdotto alt="Jag_k | DEV Profile"/>--><img width="32px" src="icons/devdotto.png#gh-light-mode-only" alt="Jag_k | DEV Profile"/><img width="32px" src="icons/devdotto.dark.png#gh-dark-mode-only" alt="Jag_k | DEV Profile"/>][devto]
 <br>
 
 
 ## 💸 Поддержать меня:
 
-[<!--<si-patreon alt="Jag_k | Patreon"/>--><img width="32px" src="icons/patreon.svg#gh-light-mode-only" alt="Jag_k | Patreon"/><img width="32px" src="icons/patreon.dark.svg#gh-dark-mode-only" alt="Jag_k | Patreon"/>][patreon]
-[<!--<si-paypal alt="Jag_k | PayPal"/>--><img width="32px" src="icons/paypal.svg#gh-light-mode-only" alt="Jag_k | PayPal"/><img width="32px" src="icons/paypal.dark.svg#gh-dark-mode-only" alt="Jag_k | PayPal"/>][paypal]
-[<!--<si-opencollective alt="Jag_k | Open Collective"/>--><img width="32px" src="icons/opencollective.svg#gh-light-mode-only" alt="Jag_k | Open Collective"/><img width="32px" src="icons/opencollective.dark.svg#gh-dark-mode-only" alt="Jag_k | Open Collective"/>][opencollective]
-[<!--<si-qiwi alt="Jag_k | Qiwi"/>--><img width="32px" src="icons/qiwi.svg#gh-light-mode-only" alt="Jag_k | Qiwi"/><img width="32px" src="icons/qiwi.dark.svg#gh-dark-mode-only" alt="Jag_k | Qiwi"/>][qiwi]
+[<!--<si-patreon alt="Jag_k | Patreon"/>--><img width="32px" src="icons/patreon.png#gh-light-mode-only" alt="Jag_k | Patreon"/><img width="32px" src="icons/patreon.dark.png#gh-dark-mode-only" alt="Jag_k | Patreon"/>][patreon]
+[<!--<si-paypal alt="Jag_k | PayPal"/>--><img width="32px" src="icons/paypal.png#gh-light-mode-only" alt="Jag_k | PayPal"/><img width="32px" src="icons/paypal.dark.png#gh-dark-mode-only" alt="Jag_k | PayPal"/>][paypal]
+[<!--<si-opencollective alt="Jag_k | Open Collective"/>--><img width="32px" src="icons/opencollective.png#gh-light-mode-only" alt="Jag_k | Open Collective"/><img width="32px" src="icons/opencollective.dark.png#gh-dark-mode-only" alt="Jag_k | Open Collective"/>][opencollective]
+[<!--<si-qiwi alt="Jag_k | Qiwi"/>--><img width="32px" src="icons/qiwi.png#gh-light-mode-only" alt="Jag_k | Qiwi"/><img width="32px" src="icons/qiwi.dark.png#gh-dark-mode-only" alt="Jag_k | Qiwi"/>][qiwi]
 <br>
 
 

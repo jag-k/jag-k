@@ -1,15 +1,16 @@
 import re
+from http.client import HTTPResponse
 from pathlib import Path
 from typing import TypeVar
 from urllib.error import HTTPError
-
 from urllib.request import urlopen
-from http.client import HTTPResponse
 
+import cairosvg
 
 PROJECT_PATH = Path(__file__).absolute().parent.parent
 ICONS_PATH = PROJECT_PATH / "icons"
 README_PATH = PROJECT_PATH / "README.md"
+DEV_PATH = PROJECT_PATH / "dev.md"
 
 # <si-devtdotto alt="Jag_k Dev.to"/>
 SIMPLE_ICON_RE = re.compile(
@@ -33,16 +34,26 @@ def matcher(match: re.Match[_T]) -> _T:
     except HTTPError:
         print(f"Icon {icon} not found")
         return match.group(0)
-    icon_path = ICONS_PATH / f"{icon}.svg"
-    dark_icon_path = ICONS_PATH / f"{icon}.dark.svg"
 
     icon_data = icon_req.read().decode('utf-8')
 
-    with open(icon_path, 'w', encoding='utf-8') as f:
-        f.write(icon_data.replace('<svg', '<svg style="fill: #000"'))
+    light_icon = icon_data.replace('<svg', '<svg fill="#000"')
+    cairosvg.svg2png(
+        light_icon.encode('utf-8'),
+        write_to=open(ICONS_PATH / f"{icon}.png", 'wb'),
+        scale=5,
+    )
+    with open(ICONS_PATH / f"{icon}.svg", 'w', encoding='utf-8') as f:
+        f.write(light_icon)
 
-    with open(dark_icon_path, 'w', encoding='utf-8') as f:
-        f.write(icon_data.replace('<svg', '<svg style="fill: #fff"'))
+    dark_icon = icon_data.replace('<svg', '<svg fill="#fff"')
+    cairosvg.svg2png(
+        dark_icon.encode('utf-8'),
+        write_to=open(ICONS_PATH / f"{icon}.dark.png", 'wb'),
+        scale=5,
+    )
+    with open(ICONS_PATH / f"{icon}.dark.svg", 'w', encoding='utf-8') as f:
+        f.write(dark_icon)
 
     alt_attr = f' alt="{alt}"' if alt else ''
     return (
@@ -50,8 +61,8 @@ def matcher(match: re.Match[_T]) -> _T:
             ''.join(
                 f'<img width="32px" src="icons/{icon}{src}"{alt_attr}/>'
                 for src in [
-                    ".svg#gh-light-mode-only",
-                    ".dark.svg#gh-dark-mode-only",
+                    ".png#gh-light-mode-only",
+                    ".dark.png#gh-dark-mode-only",
                 ]
             )
     )
@@ -67,6 +78,7 @@ def replacer():
 
 def main():
     res = ''.join(replacer())
+    # with open(DEV_PATH, 'w', encoding='utf-8') as f:
     with open(README_PATH, 'w', encoding='utf-8') as f:
         f.write(res)
 
