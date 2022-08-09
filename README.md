@@ -42,11 +42,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1597](https://github.com/withfig/fig/issues/1597) in [withfig/fig](https://github.com/withfig/fig)
-2. 💪 Opened PR [#1](https://github.com/jag-k/Plex-to-InfluxDB/pull/1) in [jag-k/Plex-to-InfluxDB](https://github.com/jag-k/Plex-to-InfluxDB)
-3. 🗣 Commented on [#8](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI/issues/8) in [EbenKouao/MMM-Face-Recognition-SMAI](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI)
-4. 💪 Opened PR [#2](https://github.com/nazavod777/TwitterMultiActions/pull/2) in [nazavod777/TwitterMultiActions](https://github.com/nazavod777/TwitterMultiActions)
-5. 🗣 Commented on [#2](https://github.com/jag-k/homebridge-magicmirror/issues/2) in [jag-k/homebridge-magicmirror](https://github.com/jag-k/homebridge-magicmirror)
+1. 🎉 Merged PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+2. 💪 Opened PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+3. ❗️ Opened issue [#1597](https://github.com/withfig/fig/issues/1597) in [withfig/fig](https://github.com/withfig/fig)
+4. 💪 Opened PR [#1](https://github.com/jag-k/Plex-to-InfluxDB/pull/1) in [jag-k/Plex-to-InfluxDB](https://github.com/jag-k/Plex-to-InfluxDB)
+5. 🗣 Commented on [#8](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI/issues/8) in [EbenKouao/MMM-Face-Recognition-SMAI](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI)
 <!--END_SECTION:activity-->
 
 
