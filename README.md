@@ -1,6 +1,10 @@
 # Всем привет 👋
 
-![Jag_k's GitHub Status](https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=dark)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=dark">
+  <img alt="Jag_k's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=light">
+</picture>
+
 
 ## 👨‍💻 Я — Full-stack разработчик
 
