@@ -17,23 +17,26 @@
 
 ## 📞 Связаться со мной:
 
-[<!--<si-twitter alt="Jag_k | Twitter"/>--><img width="32px" src="icons/twitter.png#gh-light-mode-only" alt="Jag_k | Twitter"/><img width="32px" src="icons/twitter.dark.png#gh-dark-mode-only" alt="Jag_k | Twitter"/>][twitter]
-[<!--<si-vk alt="Jag_k | VK"/>--><img width="32px" src="icons/vk.png#gh-light-mode-only" alt="Jag_k | VK"/><img width="32px" src="icons/vk.dark.png#gh-dark-mode-only" alt="Jag_k | VK"/>][vk]
-[<!--<si-instagram alt="Jag_k | Instagram"/>--><img width="32px" src="icons/instagram.png#gh-light-mode-only" alt="Jag_k | Instagram"/><img width="32px" src="icons/instagram.dark.png#gh-dark-mode-only" alt="Jag_k | Instagram"/>][instagram]
-[<!--<si-telegram alt="Jag_k | Telegram"/>--><img width="32px" src="icons/telegram.png#gh-light-mode-only" alt="Jag_k | Telegram"/><img width="32px" src="icons/telegram.dark.png#gh-dark-mode-only" alt="Jag_k | Telegram"/>][telegram]
-[<!--<si-facebook alt="Jag_k | Facebook"/>--><img width="32px" src="icons/facebook.png#gh-light-mode-only" alt="Jag_k | Facebook"/><img width="32px" src="icons/facebook.dark.png#gh-dark-mode-only" alt="Jag_k | Facebook"/>][facebook]
-[<!--<si-devdotto alt="Jag_k | DEV Profile"/>--><img width="32px" src="icons/devdotto.png#gh-light-mode-only" alt="Jag_k | DEV Profile"/><img width="32px" src="icons/devdotto.dark.png#gh-dark-mode-only" alt="Jag_k | DEV Profile"/>][devto]
-<br>
+<!--START_SECTION:links type=connect-->
+<a href="https://twitter.com/jag_k_"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/twitter.dark.png"><img alt="Jag_k on Twitter" src="icons/twitter.png" width="32px" height="32px"></picture></a>
+<a href="https://instagram.com/jag_k_"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="Jag_k on VK" src="icons/vk.png" width="32px" height="32px"></picture></a>
+<a href="https://vk.com/jag_konon"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/instagram.dark.png"><img alt="Jag_k on Instagram" src="icons/instagram.png" width="32px" height="32px"></picture></a>
+<a href="https://telegram.me/jag_k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/telegram.dark.png"><img alt="Jag_k on Telegram" src="icons/telegram.png" width="32px" height="32px"></picture></a>
+<a href="https://facebook.com/jag.konon"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/facebook.dark.png"><img alt="Jag_k on Facebook" src="icons/facebook.png" width="32px" height="32px"></picture></a>
+<a href="https://dev.to/jag_k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/devdotto.dark.png"><img alt="Jag_k on DEV Profile" src="icons/devdotto.png" width="32px" height="32px"></picture></a>
+<br/>
+<!--END_SECTION:links-->
 
 
 ## 💸 Поддержать меня:
 
-[<!--<si-patreon alt="Jag_k | Patreon"/>--><img width="32px" src="icons/patreon.png#gh-light-mode-only" alt="Jag_k | Patreon"/><img width="32px" src="icons/patreon.dark.png#gh-dark-mode-only" alt="Jag_k | Patreon"/>][patreon]
-[<!--<si-paypal alt="Jag_k | PayPal"/>--><img width="32px" src="icons/paypal.png#gh-light-mode-only" alt="Jag_k | PayPal"/><img width="32px" src="icons/paypal.dark.png#gh-dark-mode-only" alt="Jag_k | PayPal"/>][paypal]
-[<!--<si-opencollective alt="Jag_k | Open Collective"/>--><img width="32px" src="icons/opencollective.png#gh-light-mode-only" alt="Jag_k | Open Collective"/><img width="32px" src="icons/opencollective.dark.png#gh-dark-mode-only" alt="Jag_k | Open Collective"/>][opencollective]
-[<!--<si-qiwi alt="Jag_k | Qiwi"/>--><img width="32px" src="icons/qiwi.png#gh-light-mode-only" alt="Jag_k | Qiwi"/><img width="32px" src="icons/qiwi.dark.png#gh-dark-mode-only" alt="Jag_k | Qiwi"/>][qiwi]
-<br>
-
+<!--START_SECTION:links type=support-->
+<a href="https://patreon.com/jag_k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/patreon.dark.png"><img alt="Jag_k on Patreon" src="icons/patreon.png" width="32px" height="32px"></picture></a>
+<a href="https://paypal.me/jag_k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/paypal.dark.png"><img alt="Jag_k on PayPal" src="icons/paypal.png" width="32px" height="32px"></picture></a>
+<a href="https://opencollective.com/jag_k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/opencollective.dark.png"><img alt="Jag_k on Open Collective" src="icons/opencollective.png" width="32px" height="32px"></picture></a>
+<a href="https://qiwi.com/n/JAGKONON"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/qiwi.dark.png"><img alt="Jag_k on Qiwi" src="icons/qiwi.png" width="32px" height="32px"></picture></a>
+<br/>
+<!--END_SECTION:links-->
 
 ## :zap: Последняя активность на Github
   
