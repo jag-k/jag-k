@@ -42,11 +42,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-2. 💪 Opened PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-3. ❗️ Opened issue [#1597](https://github.com/withfig/fig/issues/1597) in [withfig/fig](https://github.com/withfig/fig)
-4. 💪 Opened PR [#1](https://github.com/jag-k/Plex-to-InfluxDB/pull/1) in [jag-k/Plex-to-InfluxDB](https://github.com/jag-k/Plex-to-InfluxDB)
-5. 🗣 Commented on [#8](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI/issues/8) in [EbenKouao/MMM-Face-Recognition-SMAI](https://github.com/EbenKouao/MMM-Face-Recognition-SMAI)
+1. 💪 Opened PR [#221](https://github.com/ngoduykhanh/wireguard-ui/pull/221) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
+2. 🎉 Merged PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+3. 💪 Opened PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+4. ❗️ Opened issue [#1597](https://github.com/withfig/fig/issues/1597) in [withfig/fig](https://github.com/withfig/fig)
+5. 💪 Opened PR [#1](https://github.com/jag-k/Plex-to-InfluxDB/pull/1) in [jag-k/Plex-to-InfluxDB](https://github.com/jag-k/Plex-to-InfluxDB)
 <!--END_SECTION:activity-->
 
 
