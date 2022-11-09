@@ -42,11 +42,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#97](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/97) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-2. ❗️ Opened issue [#2876](https://github.com/UnigramDev/Unigram/issues/2876) in [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
-3. 🎉 Merged PR [#4](https://github.com/jag-k/jag-k/pull/4) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
-4. 💪 Opened PR [#221](https://github.com/ngoduykhanh/wireguard-ui/pull/221) in [ngoduykhanh/wireguard-ui](https://github.com/ngoduykhanh/wireguard-ui)
-5. 🎉 Merged PR [#3](https://github.com/jag-k/jag-k/pull/3) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/tiktok-downloader/pull/1) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+2. 💪 Opened PR [#1](https://github.com/jag-k/tiktok-downloader/pull/1) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+3. 🗣 Commented on [#97](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/97) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+4. ❗️ Opened issue [#2876](https://github.com/UnigramDev/Unigram/issues/2876) in [UnigramDev/Unigram](https://github.com/UnigramDev/Unigram)
+5. 🎉 Merged PR [#4](https://github.com/jag-k/jag-k/pull/4) in [jag-k/jag-k](https://github.com/jag-k/jag-k)
 <!--END_SECTION:activity-->
 
 
