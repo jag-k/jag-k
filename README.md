@@ -42,11 +42,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#117](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/117) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-2. 🗣 Commented on [#116](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/116) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-3. 🎉 Merged PR [#2](https://github.com/jag-k/tiktok-downloader/pull/2) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-4. 💪 Opened PR [#2](https://github.com/jag-k/tiktok-downloader/pull/2) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-5. 🎉 Merged PR [#1](https://github.com/jag-k/tiktok-downloader/pull/1) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+1. 🗣 Commented on [#117](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/117) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+2. ❗️ Opened issue [#117](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/117) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+3. 🗣 Commented on [#116](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/116) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
+4. 🎉 Merged PR [#2](https://github.com/jag-k/tiktok-downloader/pull/2) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+5. 💪 Opened PR [#2](https://github.com/jag-k/tiktok-downloader/pull/2) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
 <!--END_SECTION:activity-->
 
 
