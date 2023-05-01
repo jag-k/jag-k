@@ -42,11 +42,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#30](https://github.com/ocelma/python-itunes/pull/30) in [ocelma/python-itunes](https://github.com/ocelma/python-itunes)
-2. 🗣 Commented on [#117](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/117) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-3. ❗️ Opened issue [#117](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/117) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-4. 🗣 Commented on [#116](https://github.com/Evil0ctal/Douyin_TikTok_Download_API/issues/116) in [Evil0ctal/Douyin_TikTok_Download_API](https://github.com/Evil0ctal/Douyin_TikTok_Download_API)
-5. 🎉 Merged PR [#2](https://github.com/jag-k/tiktok-downloader/pull/2) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+1. 🗣 Commented on [#634](https://github.com/bastienwirtz/homer/issues/634) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+2. 💪 Opened PR [#637](https://github.com/bastienwirtz/homer/pull/637) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+3. 🗣 Commented on [#13](https://github.com/LucaSforza/MongoPersistence/issues/13) in [LucaSforza/MongoPersistence](https://github.com/LucaSforza/MongoPersistence)
+4. 🗣 Commented on [#13](https://github.com/LucaSforza/MongoPersistence/issues/13) in [LucaSforza/MongoPersistence](https://github.com/LucaSforza/MongoPersistence)
+5. 🗣 Commented on [#13](https://github.com/LucaSforza/MongoPersistence/issues/13) in [LucaSforza/MongoPersistence](https://github.com/LucaSforza/MongoPersistence)
 <!--END_SECTION:activity-->
 
 
