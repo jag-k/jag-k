@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6315](https://github.com/raycast/extensions/issues/6315) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#634](https://github.com/bastienwirtz/homer/issues/634) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-3. 💪 Opened PR [#637](https://github.com/bastienwirtz/homer/pull/637) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
-4. 🗣 Commented on [#13](https://github.com/LucaSforza/MongoPersistence/issues/13) in [LucaSforza/MongoPersistence](https://github.com/LucaSforza/MongoPersistence)
-5. 🗣 Commented on [#13](https://github.com/LucaSforza/MongoPersistence/issues/13) in [LucaSforza/MongoPersistence](https://github.com/LucaSforza/MongoPersistence)
+1. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#6315](https://github.com/raycast/extensions/issues/6315) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#6413](https://github.com/raycast/extensions/pull/6413) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🗣 Commented on [#6315](https://github.com/raycast/extensions/issues/6315) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#634](https://github.com/bastienwirtz/homer/issues/634) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
 <!--END_SECTION:activity-->
 
 
