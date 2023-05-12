@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🗣 Commented on [#6315](https://github.com/raycast/extensions/issues/6315) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 💪 Opened PR [#6413](https://github.com/raycast/extensions/pull/6413) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/dropover-raycast-extension/pull/1) in [jag-k/dropover-raycast-extension](https://github.com/jag-k/dropover-raycast-extension)
+2. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
 4. 🗣 Commented on [#6315](https://github.com/raycast/extensions/issues/6315) in [raycast/extensions](https://github.com/raycast/extensions)
-5. 🗣 Commented on [#634](https://github.com/bastienwirtz/homer/issues/634) in [bastienwirtz/homer](https://github.com/bastienwirtz/homer)
+5. 💪 Opened PR [#6413](https://github.com/raycast/extensions/pull/6413) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 
