@@ -43,10 +43,10 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/jag-k/shlink-raycast-extension/pull/1) in [jag-k/shlink-raycast-extension](https://github.com/jag-k/shlink-raycast-extension)
-2. 💪 Opened PR [#6487](https://github.com/raycast/extensions/pull/6487) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🎉 Merged PR [#1](https://github.com/jag-k/dropover-raycast-extension/pull/1) in [jag-k/dropover-raycast-extension](https://github.com/jag-k/dropover-raycast-extension)
-4. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗️ Opened issue [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
+2. ❌ Closed PR [#1](https://github.com/jag-k/shlink-raycast-extension/pull/1) in [jag-k/shlink-raycast-extension](https://github.com/jag-k/shlink-raycast-extension)
+3. 💪 Opened PR [#6487](https://github.com/raycast/extensions/pull/6487) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🎉 Merged PR [#1](https://github.com/jag-k/dropover-raycast-extension/pull/1) in [jag-k/dropover-raycast-extension](https://github.com/jag-k/dropover-raycast-extension)
 5. 🗣 Commented on [#6413](https://github.com/raycast/extensions/issues/6413) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
