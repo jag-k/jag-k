@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6487](https://github.com/raycast/extensions/issues/6487) in [raycast/extensions](https://github.com/raycast/extensions)
-2. ❗️ Opened issue [#7001](https://github.com/raycast/extensions/issues/7001) in [raycast/extensions](https://github.com/raycast/extensions)
-3. ❗️ Opened issue [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
-4. ❌ Closed PR [#1](https://github.com/jag-k/shlink-raycast-extension/pull/1) in [jag-k/shlink-raycast-extension](https://github.com/jag-k/shlink-raycast-extension)
-5. 💪 Opened PR [#6487](https://github.com/raycast/extensions/pull/6487) in [raycast/extensions](https://github.com/raycast/extensions)
+1. 🗣 Commented on [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
+2. 🗣 Commented on [#6487](https://github.com/raycast/extensions/issues/6487) in [raycast/extensions](https://github.com/raycast/extensions)
+3. ❗️ Opened issue [#7001](https://github.com/raycast/extensions/issues/7001) in [raycast/extensions](https://github.com/raycast/extensions)
+4. ❗️ Opened issue [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
+5. ❌ Closed PR [#1](https://github.com/jag-k/shlink-raycast-extension/pull/1) in [jag-k/shlink-raycast-extension](https://github.com/jag-k/shlink-raycast-extension)
 <!--END_SECTION:activity-->
 
 
