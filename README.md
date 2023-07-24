@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#7259](https://github.com/raycast/extensions/issues/7259) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser-client/pull/1) in [jag-k/media-parser-client](https://github.com/jag-k/media-parser-client)
-3. 🗣 Commented on [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
-4. 🗣 Commented on [#6487](https://github.com/raycast/extensions/issues/6487) in [raycast/extensions](https://github.com/raycast/extensions)
-5. ❗️ Opened issue [#7001](https://github.com/raycast/extensions/issues/7001) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗️ Opened issue [#921](https://github.com/ActivityWatch/activitywatch/issues/921) in [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
+2. ❗️ Opened issue [#7259](https://github.com/raycast/extensions/issues/7259) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser-client/pull/1) in [jag-k/media-parser-client](https://github.com/jag-k/media-parser-client)
+4. 🗣 Commented on [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
+5. 🗣 Commented on [#6487](https://github.com/raycast/extensions/issues/6487) in [raycast/extensions](https://github.com/raycast/extensions)
 <!--END_SECTION:activity-->
 
 
