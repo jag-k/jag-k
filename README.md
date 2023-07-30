@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/pull/29) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
-2. ❗️ Opened issue [#921](https://github.com/ActivityWatch/activitywatch/issues/921) in [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
-3. ❗️ Opened issue [#7259](https://github.com/raycast/extensions/issues/7259) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser-client/pull/1) in [jag-k/media-parser-client](https://github.com/jag-k/media-parser-client)
-5. 🗣 Commented on [#15](https://github.com/raycast/utils/issues/15) in [raycast/utils](https://github.com/raycast/utils)
+1. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser/pull/1) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
+2. 💪 Opened PR [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/pull/29) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
+3. ❗️ Opened issue [#921](https://github.com/ActivityWatch/activitywatch/issues/921) in [ActivityWatch/activitywatch](https://github.com/ActivityWatch/activitywatch)
+4. ❗️ Opened issue [#7259](https://github.com/raycast/extensions/issues/7259) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser-client/pull/1) in [jag-k/media-parser-client](https://github.com/jag-k/media-parser-client)
 <!--END_SECTION:activity-->
 
 
