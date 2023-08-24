@@ -43,11 +43,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#448](https://github.com/walkxcode/dashboard-icons/issues/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
-2. 💪 Opened PR [#44](https://github.com/sphinx-contrib/redoc/pull/44) in [sphinx-contrib/redoc](https://github.com/sphinx-contrib/redoc)
-3. 🗣 Commented on [#436](https://github.com/walkxcode/dashboard-icons/issues/436) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
-4. 💪 Opened PR [#448](https://github.com/walkxcode/dashboard-icons/pull/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
-5. 🎉 Merged PR [#1](https://github.com/jag-k/media-parser/pull/1) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
+1. ❗️ Opened issue [#8060](https://github.com/raycast/extensions/issues/8060) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#448](https://github.com/walkxcode/dashboard-icons/issues/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
+3. 💪 Opened PR [#44](https://github.com/sphinx-contrib/redoc/pull/44) in [sphinx-contrib/redoc](https://github.com/sphinx-contrib/redoc)
+4. 🗣 Commented on [#436](https://github.com/walkxcode/dashboard-icons/issues/436) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
+5. 💪 Opened PR [#448](https://github.com/walkxcode/dashboard-icons/pull/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
 <!--END_SECTION:activity-->
 
 
