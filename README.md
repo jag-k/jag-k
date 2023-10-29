@@ -45,11 +45,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/issues/29) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
-2. ❗️ Opened issue [#45](https://github.com/KillianLucas/open-interpreter/issues/45) in [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
-3. ❗️ Opened issue [#8060](https://github.com/raycast/extensions/issues/8060) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#448](https://github.com/walkxcode/dashboard-icons/issues/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
-5. 💪 Opened PR [#44](https://github.com/sphinx-contrib/redoc/pull/44) in [sphinx-contrib/redoc](https://github.com/sphinx-contrib/redoc)
+1. ❗️ Opened issue [#646](https://github.com/wg-easy/wg-easy/issues/646) in [wg-easy/wg-easy](https://github.com/wg-easy/wg-easy)
+2. 🗣 Commented on [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/issues/29) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
+3. ❗️ Opened issue [#45](https://github.com/KillianLucas/open-interpreter/issues/45) in [KillianLucas/open-interpreter](https://github.com/KillianLucas/open-interpreter)
+4. ❗️ Opened issue [#8060](https://github.com/raycast/extensions/issues/8060) in [raycast/extensions](https://github.com/raycast/extensions)
+5. 🗣 Commented on [#448](https://github.com/walkxcode/dashboard-icons/issues/448) in [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons)
 <!--END_SECTION:activity-->
 
 
