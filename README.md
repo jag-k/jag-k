@@ -45,11 +45,11 @@
 ## :zap: Последняя активность на Github
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/jag-k/owntinfoil/pull/4) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
-2. 🎉 Merged PR [#3](https://github.com/jag-k/owntinfoil/pull/3) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
-3. 💪 Opened PR [#3](https://github.com/jag-k/owntinfoil/pull/3) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
-4. ❗️ Closed issue [#1](https://github.com/jag-k/owntinfoil/issues/1) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
-5. 🎉 Merged PR [#2](https://github.com/jag-k/owntinfoil/pull/2) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
+1. 🗣 Commented on [#5011](https://github.com/doka-guide/content/issues/5011) in [doka-guide/content](https://github.com/doka-guide/content)
+2. 🗣 Commented on [#5011](https://github.com/doka-guide/content/issues/5011) in [doka-guide/content](https://github.com/doka-guide/content)
+3. 🗣 Commented on [#5011](https://github.com/doka-guide/content/issues/5011) in [doka-guide/content](https://github.com/doka-guide/content)
+4. 🎉 Merged PR [#4](https://github.com/jag-k/owntinfoil/pull/4) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
+5. 🎉 Merged PR [#3](https://github.com/jag-k/owntinfoil/pull/3) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
 <!--END_SECTION:activity-->
 
 
