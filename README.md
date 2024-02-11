@@ -20,6 +20,7 @@
 
 ## 📞 Связаться со мной:
 
+<a rel="me" href="https://mastodon.social/@jag_k">Mastodon</a>
 <!--START_SECTION:links type=connect-->
 <a href="https://twitter.com/jag_k_"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/twitter.dark.png"><img alt="Jag_k on Twitter" src="icons/twitter.png" width="32px" height="32px"></picture></a>
 <a href="https://instagram.com/jag_k_"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/vk.dark.png"><img alt="Jag_k on VK" src="icons/vk.png" width="32px" height="32px"></picture></a>
