@@ -58,7 +58,7 @@ def generate_links(section_type: str = None):
             f'<source media="(prefers-color-scheme: dark)" srcset="icons/{data["icon"]}.dark.png">'
             f'<img alt="{data["alt"]}" src="icons/{data["icon"]}.png" width="32px" height="32px">'
             f'</picture>'
-            f'{data["alt"]}'
+            # f'{data["alt"]}'
             f'</a>\n'
         )
 
