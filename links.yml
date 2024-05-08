@@ -1,41 +1,21 @@
 connect:
-  - icon: twitter
-    link: https://twitter.com/jag_k_
-    alt: Jag_k on Twitter
+  - icon: fa6-brands:telegram
+    link: https://t.me/jag_k
+    alt: "@jag_k on Telegram"
 
-  - icon: vk
+  - icon: mdi:instagram
     link: https://instagram.com/jag_k_
-    alt: Jag_k on VK
+    alt: "@jag_k_ on Instagram"
 
-  - icon: instagram
-    link: https://vk.com/jag_konon
-    alt: Jag_k on Instagram
+  - icon: fa6-brands:x-twitter
+    link: https://x.com/jag_k_
+    alt: "@jag_k_ on X (ex-Twitter)"
 
-  - icon: telegram
-    link: https://telegram.me/jag_k
-    alt: Jag_k on Telegram
-
-  - icon: facebook
-    link: https://facebook.com/jag.konon
-    alt: Jag_k on Facebook
-
-  - icon: devdotto
-    link: https://dev.to/jag_k
-    alt: Jag_k on DEV Profile
+  - icon: mdi:mastodon
+    link: https://mastodon.social/@jag_k
+    alt: "@jag_k@mastodon.social"
 
 support:
-  - icon: patreon
-    link: https://patreon.com/jag_k
-    alt: Jag_k on Patreon
-
-  - icon: paypal
-    link: https://paypal.me/jag_k
-    alt: Jag_k on PayPal
-
-  - icon: opencollective
-    link: https://opencollective.com/jag_k
-    alt: Jag_k on Open Collective
-
-  - icon: qiwi
-    link: https://qiwi.com/n/JAGKONON
-    alt: Jag_k on Qiwi
+  - icon: simple-icons:githubsponsors
+    link: https://github.com/sponsors/jag-k
+    alt: "@jag-k on GitHub Sponsors"
