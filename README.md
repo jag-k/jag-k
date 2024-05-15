@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#8](https://github.com/jag-k/tiktok-downloader/issues/8) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-2. ❌ Closed PR [#3](https://github.com/jag-k/media-parser/pull/3) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
-3. 🗣 Commented on [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/pull/29#issuecomment-2099520658) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
-4. 🎉 Merged PR [#7](https://github.com/jag-k/tiktok-downloader/pull/7) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-5. 💪 Opened PR [#7](https://github.com/jag-k/tiktok-downloader/pull/7) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+1. ❗ Opened issue [#56](https://github.com/anboralabs/intellij-ngrok/issues/56) in [anboralabs/intellij-ngrok](https://github.com/anboralabs/intellij-ngrok)
+2. ❗ Opened issue [#8](https://github.com/jag-k/tiktok-downloader/issues/8) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+3. ❌ Closed PR [#3](https://github.com/jag-k/media-parser/pull/3) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
+4. 🗣 Commented on [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/pull/29#issuecomment-2099520658) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
+5. 🎉 Merged PR [#7](https://github.com/jag-k/tiktok-downloader/pull/7) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
 <!--END_SECTION:activity-->
