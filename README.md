@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/jag-k/homer/pull/2) in [jag-k/homer](https://github.com/jag-k/homer)
-2. ❗ Opened issue [#56](https://github.com/anboralabs/intellij-ngrok/issues/56) in [anboralabs/intellij-ngrok](https://github.com/anboralabs/intellij-ngrok)
-3. ❗ Opened issue [#8](https://github.com/jag-k/tiktok-downloader/issues/8) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-4. ❌ Closed PR [#3](https://github.com/jag-k/media-parser/pull/3) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
-5. 🗣 Commented on [#29](https://github.com/sphinx-extensions2/sphinx-autodoc2/pull/29#issuecomment-2099520658) in [sphinx-extensions2/sphinx-autodoc2](https://github.com/sphinx-extensions2/sphinx-autodoc2)
+1. ❗ Opened issue [#4](https://github.com/jag-k/pydantic-settings-export/issues/4) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. ❗ Opened issue [#3](https://github.com/jag-k/pydantic-settings-export/issues/3) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. 🎉 Merged PR [#2](https://github.com/jag-k/pydantic-settings-export/pull/2) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. 🎉 Merged PR [#2](https://github.com/jag-k/homer/pull/2) in [jag-k/homer](https://github.com/jag-k/homer)
+5. ❗ Opened issue [#56](https://github.com/anboralabs/intellij-ngrok/issues/56) in [anboralabs/intellij-ngrok](https://github.com/anboralabs/intellij-ngrok)
 <!--END_SECTION:activity-->
