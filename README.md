@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#4](https://github.com/jag-k/pydantic-settings-export/issues/4) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-2. ❗ Opened issue [#3](https://github.com/jag-k/pydantic-settings-export/issues/3) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-3. 🎉 Merged PR [#2](https://github.com/jag-k/pydantic-settings-export/pull/2) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-4. 🎉 Merged PR [#2](https://github.com/jag-k/homer/pull/2) in [jag-k/homer](https://github.com/jag-k/homer)
-5. ❗ Opened issue [#56](https://github.com/anboralabs/intellij-ngrok/issues/56) in [anboralabs/intellij-ngrok](https://github.com/anboralabs/intellij-ngrok)
+1. ❌ Closed PR [#2](https://github.com/jag-k/pyproject-autorelease-action/pull/2) in [jag-k/pyproject-autorelease-action](https://github.com/jag-k/pyproject-autorelease-action)
+2. ❌ Closed PR [#4](https://github.com/jag-k/media-parser/pull/4) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
+3. ❌ Closed PR [#34](https://github.com/jag-k/owntinfoil/pull/34) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
+4. ❌ Closed PR [#9](https://github.com/jag-k/tiktok-downloader/pull/9) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
+5. 🗣 Commented on [#1](https://github.com/jag-k/scriptable-jsx/issues/1#issuecomment-2259238158) in [jag-k/scriptable-jsx](https://github.com/jag-k/scriptable-jsx)
 <!--END_SECTION:activity-->
