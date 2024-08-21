@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/jag-k/pyproject-autorelease-action/pull/2) in [jag-k/pyproject-autorelease-action](https://github.com/jag-k/pyproject-autorelease-action)
-2. ❌ Closed PR [#4](https://github.com/jag-k/media-parser/pull/4) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
-3. ❌ Closed PR [#34](https://github.com/jag-k/owntinfoil/pull/34) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
-4. ❌ Closed PR [#9](https://github.com/jag-k/tiktok-downloader/pull/9) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-5. 🗣 Commented on [#1](https://github.com/jag-k/scriptable-jsx/issues/1#issuecomment-2259238158) in [jag-k/scriptable-jsx](https://github.com/jag-k/scriptable-jsx)
+1. 🔒 Closed issue [#3](https://github.com/jag-k/pydantic-settings-export/issues/3) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. 🎉 Merged PR [#8](https://github.com/jag-k/pydantic-settings-export/pull/8) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. 💪 Opened PR [#8](https://github.com/jag-k/pydantic-settings-export/pull/8) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. ❌ Closed PR [#2](https://github.com/jag-k/pyproject-autorelease-action/pull/2) in [jag-k/pyproject-autorelease-action](https://github.com/jag-k/pyproject-autorelease-action)
+5. ❌ Closed PR [#4](https://github.com/jag-k/media-parser/pull/4) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
 <!--END_SECTION:activity-->
