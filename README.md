@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11](https://github.com/jag-k/pydantic-settings-export/issues/11) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-2. ❗ Opened issue [#10](https://github.com/jag-k/pydantic-settings-export/issues/10) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-3. 🎉 Merged PR [#5](https://github.com/jag-k/media-parser/pull/5) in [jag-k/media-parser](https://github.com/jag-k/media-parser)
-4. 🎉 Merged PR [#10](https://github.com/jag-k/tiktok-downloader/pull/10) in [jag-k/tiktok-downloader](https://github.com/jag-k/tiktok-downloader)
-5. ❗ Opened issue [#9](https://github.com/jag-k/pydantic-settings-export/issues/9) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+1. 🔒 Closed issue [#4](https://github.com/jag-k/pydantic-settings-export/issues/4) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. 🎉 Merged PR [#17](https://github.com/jag-k/pydantic-settings-export/pull/17) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. 💪 Opened PR [#17](https://github.com/jag-k/pydantic-settings-export/pull/17) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. 🗣 Commented on [#51](https://github.com/jag-k/owntinfoil/issues/51#issuecomment-2434239565) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
+5. 🔒 Closed issue [#51](https://github.com/jag-k/owntinfoil/issues/51) in [jag-k/owntinfoil](https://github.com/jag-k/owntinfoil)
 <!--END_SECTION:activity-->
