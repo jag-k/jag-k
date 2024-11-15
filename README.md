@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#15223](https://github.com/raycast/extensions/pull/15223#issuecomment-2470059928) in [raycast/extensions](https://github.com/raycast/extensions)
-2. 💪 Opened PR [#15223](https://github.com/raycast/extensions/pull/15223) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🔒 Closed issue [#4](https://github.com/jag-k/pydantic-settings-export/issues/4) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-4. 🎉 Merged PR [#17](https://github.com/jag-k/pydantic-settings-export/pull/17) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-5. 💪 Opened PR [#17](https://github.com/jag-k/pydantic-settings-export/pull/17) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+1. 🗣 Commented on [#15223](https://github.com/raycast/extensions/pull/15223#issuecomment-2476520240) in [raycast/extensions](https://github.com/raycast/extensions)
+2. 🗣 Commented on [#15223](https://github.com/raycast/extensions/pull/15223#issuecomment-2470059928) in [raycast/extensions](https://github.com/raycast/extensions)
+3. 💪 Opened PR [#15223](https://github.com/raycast/extensions/pull/15223) in [raycast/extensions](https://github.com/raycast/extensions)
+4. 🔒 Closed issue [#4](https://github.com/jag-k/pydantic-settings-export/issues/4) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+5. 🎉 Merged PR [#17](https://github.com/jag-k/pydantic-settings-export/pull/17) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
 <!--END_SECTION:activity-->
