@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/jag-k/git-raycast/pull/1) in [jag-k/git-raycast](https://github.com/jag-k/git-raycast)
-2. 💪 Opened PR [#1](https://github.com/jag-k/git-raycast/pull/1) in [jag-k/git-raycast](https://github.com/jag-k/git-raycast)
-3. 🔒 Closed issue [#11](https://github.com/jag-k/pydantic-settings-export/issues/11) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-4. 🎉 Merged PR [#21](https://github.com/jag-k/pydantic-settings-export/pull/21) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-5. 💪 Opened PR [#21](https://github.com/jag-k/pydantic-settings-export/pull/21) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+1. 🗣 Commented on [#22](https://github.com/jag-k/pydantic-settings-export/pull/22#issuecomment-2613748076) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. 🗣 Commented on [#22](https://github.com/jag-k/pydantic-settings-export/pull/22#issuecomment-2613747729) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. 💪 Opened PR [#22](https://github.com/jag-k/pydantic-settings-export/pull/22) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. 🎉 Merged PR [#1](https://github.com/jag-k/git-raycast/pull/1) in [jag-k/git-raycast](https://github.com/jag-k/git-raycast)
+5. 💪 Opened PR [#1](https://github.com/jag-k/git-raycast/pull/1) in [jag-k/git-raycast](https://github.com/jag-k/git-raycast)
 <!--END_SECTION:activity-->
