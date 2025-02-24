@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#6](https://github.com/jag-k/pydantic-settings-export/issues/6) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-2. 🎉 Merged PR [#23](https://github.com/jag-k/pydantic-settings-export/pull/23) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-3. 🗣 Commented on [#23](https://github.com/jag-k/pydantic-settings-export/pull/23#issuecomment-2666521864) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-4. 🗣 Commented on [#23](https://github.com/jag-k/pydantic-settings-export/pull/23#issuecomment-2666506257) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-5. 🗣 Commented on [#23](https://github.com/jag-k/pydantic-settings-export/pull/23#issuecomment-2666475702) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+1. 🗣 Commented on [#22](https://github.com/jag-k/pydantic-settings-export/pull/22#issuecomment-2676431177) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. 🗣 Commented on [#22](https://github.com/jag-k/pydantic-settings-export/pull/22#issuecomment-2676431086) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. 🔒 Closed issue [#6](https://github.com/jag-k/pydantic-settings-export/issues/6) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. 🎉 Merged PR [#23](https://github.com/jag-k/pydantic-settings-export/pull/23) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+5. 🗣 Commented on [#23](https://github.com/jag-k/pydantic-settings-export/pull/23#issuecomment-2666521864) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
 <!--END_SECTION:activity-->
