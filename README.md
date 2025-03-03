@@ -34,9 +34,9 @@
 ## :zap: Latest activity on GitHub
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#24](https://github.com/jag-k/pydantic-settings-export/issues/24) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-2. 🗣 Commented on [#17349](https://github.com/raycast/extensions/issues/17349#issuecomment-2687255689) in [raycast/extensions](https://github.com/raycast/extensions)
-3. 🗣 Commented on [#17360](https://github.com/raycast/extensions/issues/17360#issuecomment-2686376261) in [raycast/extensions](https://github.com/raycast/extensions)
-4. 🗣 Commented on [#17360](https://github.com/raycast/extensions/issues/17360#issuecomment-2685859696) in [raycast/extensions](https://github.com/raycast/extensions)
-5. ❗ Opened issue [#17349](https://github.com/raycast/extensions/issues/17349) in [raycast/extensions](https://github.com/raycast/extensions)
+1. ❗ Opened issue [#32](https://github.com/jag-k/pydantic-settings-export/issues/32) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+2. ❗ Opened issue [#31](https://github.com/jag-k/pydantic-settings-export/issues/31) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+3. ❗ Opened issue [#30](https://github.com/jag-k/pydantic-settings-export/issues/30) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+4. ❗ Opened issue [#29](https://github.com/jag-k/pydantic-settings-export/issues/29) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
+5. ❗ Opened issue [#28](https://github.com/jag-k/pydantic-settings-export/issues/28) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
 <!--END_SECTION:activity-->
