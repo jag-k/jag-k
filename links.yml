@@ -19,3 +19,6 @@ support:
   - icon: simple-icons:githubsponsors
     link: https://github.com/sponsors/jag-k
     alt: "@jag-k on GitHub Sponsors"
+  - icon: fa6-brands:patreon
+    link: https://patreon.com/jag_k
+    alt: "Jag_k on Patreon"

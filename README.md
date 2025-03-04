@@ -1,17 +1,11 @@
 # Hi 👋
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=dark">
-  <img alt="Jag_k's GitHub Status" src="https://github-readme-stats.vercel.app/api?username=jag-k&show_icons=true&hide_border=true&count_private=true&theme=light">
-</picture>
-
-
 ## 👨‍💻 I'm — Full-stack Python/JS software engeneer
 
 - 🔭 From time to time, I make bots for Telegram
 - 🌱 I make plugins for [Figma](https://figma.com) and [VSCode](https://code.visualstudio.com)
 - 🌥️ Make a weather in [OpenWeather](https://openweathermap.org)
-- 🕺 I have fun writing iOS widgets on TSX (you can see more in the list of my projects)
+- 🕺 I have fun writing iOS widgets on TSX (you can see more in the list of my repos)
 
 ## 📞 Contact with me
 
@@ -30,13 +24,3 @@
 <a href="https://github.com/sponsors/jag-k"><picture><source media="(prefers-color-scheme: dark)" srcset="icons/simple-icons:githubsponsors.dark.png"><img alt="@jag-k on GitHub Sponsors" src="icons/simple-icons:githubsponsors.png" width="32px" height="32px"></picture></a>
 <br/>
 <!--END_SECTION:links-->
-
-## :zap: Latest activity on GitHub
-  
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#32](https://github.com/jag-k/pydantic-settings-export/issues/32) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-2. ❗ Opened issue [#31](https://github.com/jag-k/pydantic-settings-export/issues/31) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-3. ❗ Opened issue [#30](https://github.com/jag-k/pydantic-settings-export/issues/30) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-4. ❗ Opened issue [#29](https://github.com/jag-k/pydantic-settings-export/issues/29) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-5. ❗ Opened issue [#28](https://github.com/jag-k/pydantic-settings-export/issues/28) in [jag-k/pydantic-settings-export](https://github.com/jag-k/pydantic-settings-export)
-<!--END_SECTION:activity-->
